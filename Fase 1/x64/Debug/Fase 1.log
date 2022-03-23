@@ -1,0 +1,19 @@
+﻿  funcoes.c
+C:\uni\ed\1º projeto\Fase 1\funcoes.c(109,40): warning C4028: parâmetro formal 2 diferente da declaração
+C:\uni\ed\1º projeto\Fase 1\funcoes.c(109,66): warning C4029: lista de parâmetros formais declarada diferente da definição
+C:\uni\ed\1º projeto\Fase 1\funcoes.c(166,13): warning C4477: 'printf': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 1 tem o tipo 'int *'
+C:\uni\ed\1º projeto\Fase 1\funcoes.c(166,13): warning C4313: 'printf': '%d' na cadeia de formato está em conflito com o argumento 1 do tipo 'int *'
+C:\uni\ed\1º projeto\Fase 1\funcoes.c(166,13): warning C4477: 'printf': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 2 tem o tipo 'int *'
+C:\uni\ed\1º projeto\Fase 1\funcoes.c(166,13): warning C4313: 'printf': '%d' na cadeia de formato está em conflito com o argumento 2 do tipo 'int *'
+C:\uni\ed\1º projeto\Fase 1\funcoes.c(177,33): warning C4047: '=': 'int' difere em níveis de indireção de 'int *'
+C:\uni\ed\1º projeto\Fase 1\funcoes.c(180,39): warning C4047: '<': 'int *' difere em níveis de indireção de 'int'
+C:\uni\ed\1º projeto\Fase 1\funcoes.c(180,72): warning C4047: '=': 'int' difere em níveis de indireção de 'int *'
+C:\uni\ed\1º projeto\Fase 1\funcoes.c(200,33): warning C4047: '=': 'int' difere em níveis de indireção de 'int *'
+C:\uni\ed\1º projeto\Fase 1\funcoes.c(203,39): warning C4047: '>': 'int *' difere em níveis de indireção de 'int'
+C:\uni\ed\1º projeto\Fase 1\funcoes.c(203,72): warning C4047: '=': 'int' difere em níveis de indireção de 'int *'
+C:\uni\ed\1º projeto\Fase 1\funcoes.c(225,33): warning C4047: '=': 'int' difere em níveis de indireção de 'int *'
+C:\uni\ed\1º projeto\Fase 1\funcoes.c(123): warning C4715: 'alterarMaqOp': nem todos os caminhos de controle retornam um valor
+  main.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_stdio_config.h(111,1): warning C4005: '_CRT_INTERNAL_LOCAL_SCANF_OPTIONS': redefinição de macro
+C:\uni\ed\1º projeto\Fase 1\main.c : message : consulte a definição anterior de '_CRT_INTERNAL_LOCAL_SCANF_OPTIONS'
+  Fase 1.vcxproj -> C:\uni\ed\1º projeto\x64\Debug\Fase 1.exe
